@@ -6,6 +6,9 @@ This game is part of Android OS 5.0 and the entire source code is available here
 This version has been converted into a Gradle project and all the resources unrelated with the game have been removed.
 
 
+![Lollipop Land preview GIFs](https://github.com/simoarpe/LollipopLand/raw/master/images/lollipopland-image.gif)
+
+
 License
 -------
 
